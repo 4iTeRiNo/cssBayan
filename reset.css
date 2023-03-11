@@ -22,8 +22,8 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+    font-family: 'Anton', sans-serif;
 }
-
 /* make sure to set some focus styles for accessibility */
 :focus {
     outline: 0;
