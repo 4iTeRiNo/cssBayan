@@ -52,7 +52,8 @@ body {
 	height: 0;
 	overflow: hidden;
 	transition: all 0.9s;
-	display: flex;
+	display: block;
+	margin: 0 auto;
 }
 .accordion__items label {
 	width: 22rem;
